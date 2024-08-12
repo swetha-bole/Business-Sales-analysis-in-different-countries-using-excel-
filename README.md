@@ -1,5 +1,6 @@
 # Business-Sales-analysis-in-different-countries-using-excel-
-the sales project demonstrates a comprehensive analysis of our sales data over the specified period. Through detailed examination of sales figures, trends, and performance metrics, we have identified key areas of strength and opportunities for improvement.
+[PHASE1 excel project sales.pdf](https://github.com/user-attachments/files/16588814/PHASE1.excel.project.sales.pdf)
+This sales project is of  sales data over the specified period. Through detailed examination of sales figures, trends, and performance metrics, we have identified key areas of strength and opportunities for improvement.
 
 The insights derived from the Excel analysis reveal:
 
